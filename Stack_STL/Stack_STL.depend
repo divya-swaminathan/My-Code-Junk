@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402555642 source:c:\users\divya swaminathan\dropbox\stack_stl\main.cpp
+	<iostream>
+	<stack>
+
