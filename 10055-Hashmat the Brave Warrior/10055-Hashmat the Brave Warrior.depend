@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1403105933 source:c:\users\divya swaminathan\dropbox\10055-hashmat the brave warrior\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<string>
+	<cctype>
+	<stack>
+	<queue>
+	<list>
+	<vector>
+	<map>
+	<sstream>
+	<cmath>
+	<bitset>
+	<utility>
+	<set>
+
