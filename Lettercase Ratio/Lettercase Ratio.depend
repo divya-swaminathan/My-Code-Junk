@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402471949 source:c:\users\divya swaminathan\dropbox\lettercase ratio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
